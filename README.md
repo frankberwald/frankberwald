@@ -1,75 +1,68 @@
-<div style="width: 200px !important; !important; margin-bottom: 10rem !important;">  
-  
-</div>
- 
-<div style="text-align: center !important;">
+<html>
+<body>
 
-  <h2 margin: 0!important;">Hello, I'm Franklin! 😎: </h2>
-
+<div align="center">
+  <h1 align="center">Hi <picture><img alt="wave" width=35 src="./imgs/waving.gif"></picture>, I'm Franklin</h1>
+  <h4 align="center">A passionate developer from Brazil</h4>
 </div>
 
-<code>  
-████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
-████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
-███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
-████████████████████████████████▀  ¿▓▓▓▓▓▓▓▓▄/ "████████████  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
-██████████████████████████████▀.  ▓▓▓▓▓▓▓▓▓▓▓▓   ▐██████████  ██║  ██║███████╗███████╗███████╗╚██████╔╝▄█╗
-██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓  ` ██████████  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝
-██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓   ▄██████████
-▀██████████████████████████████▌  ▀▀▓▓▓▓▓▓▓▌╓╖. ████████████  ███╗   ██╗██╗ ██████╗███████╗  ████████╗ ██████╗
-█▄▀██████████████████████████████▄ ╩╦╙▀▀▀▀▀ ╣`,█████████████  ████╗  ██║██║██╔════╝██╔════╝  ╚══██╔══╝██╔═══██╗
-▄▀█▄╙█████████████████████▀▀▀▀█████▄▄ .... ,▄███████▀███████  ██╔██╗ ██║██║██║     █████╗       ██║   ██║   ██║
-██▄▀█▄╙█████████████████▀  ╪╢%╦══~╓,└ ╚▒▒▒ ╙▀|,╓╓═╤H   ▀████  ██║╚██╗██║██║██║     ██╔══╝       ██║   ██║   ██║
-█▀▀▀-▀█▌▄▀█████████████   ║▒▒▒▒▒▒▒▒▒▒╢╦ ╘ -╣▒▒▒▒▒▒▒▒▒╢╕   ▀█  ██║ ╚████║██║╚██████╗███████╗     ██║   ╚██████╔╝
-██▄▀██└║▄▄▄████████████▄          ═╕╕╕╕╕═╕═══════       ▄▄▄▄  ╚═╝  ╚═══╝╚═╝ ╚═════╝╚══════╝     ╚═╝    ╚═════╝
-████▄▀█▌║███  ████████▌         ╕   ╩▒▒▒▒▒▒▒▒▒Ñ          ███
-██████▌Ö▓▌   ▀██████████`╔▒▒╣ █ ▒▒m   ╚▒╢▒▒▒╩ -╣▒ ▌ ▒▒▒ ████  ███╗   ███╗███████╗███████╗████████╗  ██╗   ██╗ ██████╗ ██╗   ██╗
-████ -"" ∞╙,▀.╙▀███████╜ ▒▒▒ ▄█ Ñ   -   S.  ═▒▒▒▒ █ ║▒▒╕└███  ████╗ ████║██╔════╝██╔════╝╚══██╔══╝  ╚██╗ ██╔╝██╔═══██╗██║   ██║
-████████▄ -«   ∞▄.▀",╓═     ╒██   ═╣▒▒ `Ñ╛        █▌ ▒▒▒ ███  ██╔████╔██║█████╗  █████╗     ██║      ╚████╔╝ ██║   ██║██║   ██║
-█████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
-█████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
-▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
-</code>
-<br>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankberwald&amp;hide_progress=true" alt="Top Langs" />  
-</div>
+## 🧮 **About me**
 
-<div style="">
+- 🎓 I'm a Mobile Web Development student at [SENAI](http://sc.senai.br/).
+- 🌱 I’m currently learning **Javascript, Typescript** and **Node.js**
+- 🏢 I'm open for internship and job opportunities
+- ⚡ Fun fact: I love to play games, and hit the gym !
 
-  <div style="display: flex !important; flex-direction: column !important;"><h3>Currently working with...</h3></div>
+-----
 
-  <img style="width: 50px !important" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
+## 🛠️ **Skills**
 
-  <img style="width: 50px !important" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
+- **Languages**
 
-  <img style="width: 50px !important" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png">  
+    
+    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
+    ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-  <img style="width: 50px !important" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">
+- **Front-End Development**
 
-  <img style="width: 50px !important" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">
-  
-  <img style="width: 50px !important" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png">
-  
-  <img style="width: 50px !important" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png">
+    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-  <img style="width: 50px !important" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
-  
-  <img style="width: 50px !important" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png">
+- **Frameworks**
 
-</div>
+    ![React](https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+    ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+    ![Unity](https://img.shields.io/badge/Unity%20-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+    ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
-<div style="display: flex !important; flex-direction: column !important;"><h3>Currently learning...</h3></div>
-<div>
-  
-  <img style="width: 50px !important" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png">  
+- **Softwares and Tools**
 
-  <img style="width: 50px !important" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png">
-  
-  <img style="width: 50px !important" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">
-  
-  <img style="width: 50px !important" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png">
+    ![Git](https://img.shields.io/badge/Git%20-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/GitHub%20-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code%20-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+    
 
-  
-</div>
- 
+-----
+
+## 📫 **How to contact me**
+
+<p align="center">
+<br/>
+<a href="https://www.linkedin.com/in/italoseara/" target="blank">
+  <img align="center"
+    src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="azzar" height="30"/>
+</a>
+<a href="mailto:berwald1997@outlook.com" target="blank">
+  <img align="center"
+    src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="azzar" height="30"/>
+</a>
+</p>
+
+</body>
+</html>
