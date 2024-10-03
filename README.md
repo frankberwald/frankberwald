@@ -59,7 +59,7 @@
 </a>
 <a href="mailto:berwald1997@outlook.com" target="blank">
   <img align="center"
-    src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+    src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
     alt="azzar" height="30"/>
 </a>
 </p>
