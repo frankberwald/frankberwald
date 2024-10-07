@@ -44,14 +44,16 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code%20-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
-- **Databases**
+  - **Databases**
+
     ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
     ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
     ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  
+
 - **Languages i'm currently exploring**
+
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-    
+  
 
 -----
 
