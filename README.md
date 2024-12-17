@@ -8,7 +8,7 @@
 
 ## 🧮 **About me**
 
-- 🎓 I'm a Mobile Web Development student at [SENAI](http://sc.senai.br/).
+- 🎓 I'm a Software Development student at [SENAI](http://sc.senai.br/).
 - 🌱 I’m currently learning **Javascript, Typescript** and **Node.js**
 - 🏢 I'm open for internship and job opportunities
 - ⚡ Fun fact: I love to play games, and hit the gym !
