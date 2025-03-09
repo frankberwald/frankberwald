@@ -36,8 +36,6 @@
     ![React](https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
     ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
     ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-    ![Docker]( https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-    ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 
 - **Softwares and Tools**
 
@@ -46,6 +44,7 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code%20-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Visual Studio](https://img.shields.io/badge/Visual%20Studio%20-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
     ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+    ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 
 - **Databases**
 
