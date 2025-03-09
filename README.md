@@ -9,7 +9,7 @@
 ## 🧮 **About me**
 
 - 🎓 I'm a Software Development student at [SENAI](http://sc.senai.br/).
-- 🎓 Also a analysis and systems development studend ac [SENAC](https://www.senac.br/).
+- 🎓 Also an analysis and systems development studend ac [SENAC](https://www.senac.br/).
 - 🌱 I’m currently learning **Javascript, Typescript** and **Node.js**
 - 🏢 I'm open for internship and job opportunities
 - ⚡ Fun fact: I love to play games, and hit the gym !
